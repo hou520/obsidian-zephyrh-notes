@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dd46a03f11d69b18",
+  "active": "a4cd07d815b96ccb",
   "lastOpenFiles": [
     "学习笔记/Cursor/deepseek接入/deepseek-cursor-proxy创建服务.md",
     "AIHelp/日记/2026-05-22 上线.md",
