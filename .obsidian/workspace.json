@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习笔记/Cursor/插件/未命名.md",
+                "file": "学习笔记/Cursor/插件/删除配置的 semble 环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "删除配置的 semble 环境"
             }
           }
         ]
@@ -173,11 +173,13 @@
   },
   "active": "dd46a03f11d69b18",
   "lastOpenFiles": [
+    "学习笔记/Cursor/插件/Windows 11 + Cursor：Semble (MCP) 安装全攻略.md",
+    "学习笔记/Cursor/插件/删除配置的 semble 环境.md",
+    "学习笔记/Cursor/插件/Windows 环境下，配合 Cursor 使用 RTK.md",
     "学习笔记/Cursor/插件/attachments/image.png",
     "学习笔记/Cursor/插件/attachments/image-1.png",
     "学习笔记/Cursor/插件/attachments",
     "学习笔记/Cursor/deepseek接入/uv 包下载问题.md",
-    "学习笔记/Cursor/插件/未命名.md",
     "学习笔记/Cursor/插件",
     "学习笔记/Cursor/deepseek接入/ngrok切换为Cpolar.md",
     "AIHelp/日记/2026-05-22 上线.md",
@@ -210,7 +212,6 @@
     "AIHelp/日记/2026/2026-03-13.md",
     "AIHelp/日记/2026/2026-02-05.md",
     "AIHelp/日记/2026/2026-01-30.md",
-    "AIHelp/日记/2026/2026-01-21.md",
     "AIHelp/日记/2026-04-02/未命名.canvas",
     "AIHelp/日记/2026-04-02",
     "未命名.canvas",
@@ -219,7 +220,6 @@
     "AIHelp/需求文档/202510/20251027-17922 【AI专项提升】江娱TH反馈意图识别不准，回复语言问题/attachments/Pasted image 20251103153937.png",
     "AIHelp/需求文档/202510/20251027-17922 【AI专项提升】江娱TH反馈意图识别不准，回复语言问题/attachments/Pasted image 20251103153859.png",
     "AIHelp/需求文档/202510/20251027-17922 【AI专项提升】江娱TH反馈意图识别不准，回复语言问题/attachments/Pasted image 20251103153304.png",
-    "AIHelp/日记/attachments/613f5558a47ccfe1dddd37219f04c4f9.png",
-    "AIHelp/需求文档/202510/20251027-17922 【AI专项提升】江娱TH反馈意图识别不准，回复语言问题/attachments/Pasted image 20251028113906.png"
+    "AIHelp/日记/attachments/613f5558a47ccfe1dddd37219f04c4f9.png"
   ]
 }
