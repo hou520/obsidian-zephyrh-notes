@@ -100,3 +100,12 @@ uv tool upgrade "semble[mcp]"
 - **路径清晰**：它生成的 `.exe` 垫片（Shim）对 Windows 的路径解析非常友好，极少出现 `FileNotFoundError`。
     
 - **环境隔离**：虽然它是全局命令，但它的依赖库完全锁定在独立的虚拟环境中，不会污染你其他的 Python 项目。
+
+测试：
+只要 Cursor 的那个圆点变**绿**且显示 **2 tools**：
+
+1. 按 `Ctrl + L` 打开聊天。
+    
+2. 输入 `@semble search "test"`。
+    
+3. 如果它开始扫描你的索引，那么恭喜你，这个最难搞的 Windows MCP 环境终于打通了！
