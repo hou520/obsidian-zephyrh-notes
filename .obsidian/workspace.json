@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIHelp/日记/2026-06-04 上线.md",
+                "file": "学习笔记/Cursor/deepseek接入/ngrok切换为Cpolar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-04 上线"
+              "title": "ngrok切换为Cpolar"
             }
           }
         ]
@@ -173,11 +173,11 @@
   },
   "active": "dd46a03f11d69b18",
   "lastOpenFiles": [
+    "AIHelp/日记/2026-06-04 上线.md",
     "学习笔记/Cursor/deepseek接入/ngrok切换为Cpolar.md",
     "学习笔记/Cursor/deepseek接入/deepseek-cursor-proxy创建服务.md",
     "学习笔记/Cursor/deepseek接入/cursor 接入deepseek-chat模型.md",
     "学习笔记/Cursor/deepseek接入/在 Windows 11 上使用 `deepseek-cursor-proxy` 让 Cursor 接入 DeepSeek.md",
-    "AIHelp/日记/2026-06-04 上线.md",
     "AIHelp/日记/2026-05-29 上线.md",
     "学习笔记/Cursor/插件/Windows 11 + Cursor，Semble (MCP) 全局工具安装指南.md",
     "学习笔记/Cursor/插件/Windows 11 + Cursor：Semble (MCP) 安装全攻略.md",
