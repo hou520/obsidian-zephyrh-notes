@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIHelp/日记/2026-06-11 上线.md",
+                "file": "AIHelp/日记/2026-06-26 aihelp灰度安排.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-11 上线"
+              "title": "2026-06-26 aihelp灰度安排"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "dd46a03f11d69b18",
   "lastOpenFiles": [
-    "学习笔记/Claude Code/Claude 缓存配置技巧.md",
+    "AIHelp/日记/attachments/672c11a663e56bc53eb10f25d5346c29.png",
     "AIHelp/日记/2026-06-11 上线.md",
+    "AIHelp/日记/2026-06-26 aihelp灰度安排.md",
+    "学习笔记/Claude Code/Claude 缓存配置技巧.md",
     "学习笔记/Cursor/deepseek接入/deepseek-cursor-proxy 使用指南：日志查看与思考模式控制.md",
     "学习笔记/Claude Code",
     "学习笔记/Cursor/deepseek接入/deepseek-cursor-proxy创建服务.md",
@@ -210,8 +212,6 @@
     "AIHelp/日记/2026-04-24 上线.md",
     "AIHelp/日记/2026-04-22 问题.md",
     "AIHelp/日记/2026-04-02 上线.md",
-    "AIHelp/日记/2026-04-02 待办.md",
-    "AIHelp/日记/2026/2026-01-15.md",
     "AIHelp/日记/2026",
     "AIHelp/日记/2026-04-02/未命名.canvas",
     "未命名.canvas",
