@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIHelp/日记/2026-07-23 上线.md",
+                "file": "学习笔记/windows/nuget 包从C盘迁移到其他盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-23 上线"
+              "title": "nuget 包从C盘迁移到其他盘"
             }
           }
         ],
@@ -202,8 +202,10 @@
   },
   "active": "23feebe192f40bc7",
   "lastOpenFiles": [
-    "AIHelp/日记/2026/2026-04-24 上线.md",
     "AIHelp/日记/2026-07-23 上线.md",
+    "学习笔记/windows/nuget 包从C盘迁移到其他盘.md",
+    "学习笔记/windows",
+    "AIHelp/日记/2026/2026-04-24 上线.md",
     "AIHelp/日记/2026/2026-04-22 问题.md",
     "AIHelp/日记/2026/2026-04-02 上线.md",
     "学习笔记/Cursor/deepseek接入/deepseek-cursor-proxy创建服务.md",
@@ -238,14 +240,12 @@
     "学习笔记/Cursor/插件",
     "AIHelp/日记/2026/2026-05-22 上线.md",
     "学习笔记/Git",
-    "README.md",
     "学习笔记/Cursor/deepseek接入/attachments/Pasted image 20260519153901.png",
     "学习笔记/Cursor/deepseek接入/attachments",
     "学习笔记/Cursor/deepseek接入",
     "学习笔记/Cursor/attachments/Pasted image 20260512144905.png",
     "学习笔记/Cursor/attachments",
     "学习笔记/Cursor",
-    "学习笔记",
     "AIHelp/日记/2026-04-02/未命名.canvas",
     "未命名.canvas",
     "AIHelp/日记/attachments/ae585691fc0be35fa75e2f5a77ccbfc6.png",
