@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Cursor配置不使用Sandbox"
             }
+          },
+          {
+            "id": "273ba7765d5c83b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -200,7 +214,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "23feebe192f40bc7",
+  "active": "273ba7765d5c83b9",
   "lastOpenFiles": [
     "学习笔记/Cursor/attachments/Pasted image 20260808114408.png",
     "学习笔记/Cursor/Cursor UI配置.md",
