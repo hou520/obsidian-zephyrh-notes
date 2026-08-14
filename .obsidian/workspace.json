@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-08-13 上线"
             }
-          },
-          {
-            "id": "3a56a73d7cb5c59b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +173,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3a56a73d7cb5c59b",
+  "active": "08bc176fc0057267",
   "lastOpenFiles": [
     "AIHelp/日记/2026-08-13 上线.md",
     "学习笔记/Cursor/attachments/Pasted image 20260808114408.png",
