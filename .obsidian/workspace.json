@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIHelp/日记/2026-08-20.md",
+                "file": "学习笔记/Deepseek harness/DeepSeek Harness 实际安装使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-20"
+              "title": "DeepSeek Harness 实际安装使用"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "35a7791acf275fea",
   "lastOpenFiles": [
-    "学习笔记/Deepseek harness/DeepSeek Harness 实际安装使用.md",
+    "学习笔记/Deepseek harness/DeepSeek Harness 运行.md",
     "AIHelp/日记/2026-08-20.md",
+    "学习笔记/Deepseek harness/DeepSeek Harness 实际安装使用.md",
     "学习笔记/Claude Code/Claude 缓存配置技巧.md",
     "学习笔记/Python/20260709 循环依赖问题.md",
     "学习笔记/Cursor/deepseek接入/ngrok切换为Cpolar.md",
@@ -190,7 +191,6 @@
     "学习笔记/Cursor/randy自定义插件.md",
     "学习笔记/Cursor/Cursor UI配置.md",
     "学习笔记/Cursor/Cursor配置不使用Sandbox.md",
-    "学习笔记/Deepseek harness/DeepSeek Harness 运行.md",
     "学习笔记/Deepseek harness",
     "学习笔记/windows/登录用户没有目录操作权限处理方式.md",
     "AIHelp/日记/2026-08-13 上线.md",
