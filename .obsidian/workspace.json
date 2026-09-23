@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习笔记/windows/JetBrains 全家桶共用 Qoder CN 插件.md",
+                "file": "学习笔记/Cursor/Cursor配置不使用Sandbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JetBrains 全家桶共用 Qoder CN 插件"
+              "title": "Cursor配置不使用Sandbox"
             }
           }
         ]
@@ -175,13 +175,15 @@
   },
   "active": "35a7791acf275fea",
   "lastOpenFiles": [
-    "AIHelp/日记/2026-09-17 上线.md",
+    "学习笔记/Cursor/Cursor UI配置.md",
+    "学习笔记/Cursor/codegraph.md",
+    "学习笔记/Cursor/aihelp-dev.md",
     "学习笔记/windows/JetBrains 全家桶共用 Qoder CN 插件.md",
+    "AIHelp/日记/2026-09-17 上线.md",
     "学习笔记/Deepseek harness/dsh-web-all安装.md",
     "学习笔记/Deepseek harness/DeepSeek Harness 实际安装使用.md",
     "学习笔记/Deepseek harness/DeepSeek Harness 运行.md",
     "学习笔记/NetCore/项目编译报错 CreateAppHost 失败.md",
-    "学习笔记/Cursor/codegraph.md",
     "学习笔记/NetCore",
     "AIHelp/日记/2026-08-20.md",
     "学习笔记/Claude Code/Claude 缓存配置技巧.md",
@@ -190,11 +192,9 @@
     "学习笔记/Cursor/deepseek接入/deepseek-cursor-proxy创建服务.md",
     "学习笔记/Cursor/deepseek接入/deepseek-cursor-proxy 使用指南：日志查看与思考模式控制.md",
     "学习笔记/Cursor/deepseek接入/uv 包下载问题.md",
-    "学习笔记/Cursor/aihelp-dev.md",
     "学习笔记/Cursor/attachments/b37593026ce2125efc9106c42b49b12a.png",
     "学习笔记/Cursor/zcode.md",
     "学习笔记/Cursor/randy自定义插件.md",
-    "学习笔记/Cursor/Cursor UI配置.md",
     "学习笔记/Cursor/Cursor配置不使用Sandbox.md",
     "学习笔记/Deepseek harness",
     "学习笔记/windows/登录用户没有目录操作权限处理方式.md",
