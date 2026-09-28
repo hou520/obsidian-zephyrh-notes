@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd013745cbe1248",
+        "id": "d8cd1250154e05bf",
         "type": "tabs",
         "children": [
           {
-            "id": "936e3b8a33b89181",
+            "id": "515b118281561632",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +180,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5f1cc1e472ecde18",
+  "active": "8e981ddc92f94595",
   "lastOpenFiles": [
+    "思维导图",
+    "思维导图/思维导图.canvas",
+    "思维导图/Excalidraw/Drawing 2026-02-20 19.08.02.excalidraw.md",
+    "思维导图/思维导图.restored.md",
+    "思维导图/Excalidraw",
     "学习笔记/Git/Obsidian+Github.md",
     "AIHelp/日记/2026-09-23 上线.md",
     "学习笔记/Cursor/Cursor配置不使用Sandbox.md",
@@ -208,9 +214,6 @@
     "学习笔记/windows/登录用户没有目录操作权限处理方式.md",
     "AIHelp/日记/2026-08-13 上线.md",
     "学习笔记/Cursor/attachments/Pasted image 20260808114408.png",
-    "学习笔记/windows/nuget v3-cache迁移方式.md",
-    "学习笔记/windows/nuget 包从C盘迁移到其他盘.md",
-    "AIHelp/日记/2026-07-23 上线.md",
     "学习笔记/windows",
     "学习笔记/Python",
     "学习笔记/Cursor/插件/attachments/39c35bd58f9fd18828a20cecf4cbfeea.png",
@@ -225,7 +228,6 @@
     "学习笔记/Git",
     "学习笔记/Cursor/deepseek接入/attachments/Pasted image 20260519153901.png",
     "学习笔记/Cursor/deepseek接入/attachments",
-    "学习笔记/Cursor/deepseek接入",
     "学习笔记/Cursor/attachments/Pasted image 20260512144905.png",
     "AIHelp/日记/2026-04-02/未命名.canvas",
     "未命名.canvas"
