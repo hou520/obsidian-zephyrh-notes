@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9eb96a04bbd21ff",
+        "id": "ca02b1be1f9cb3c8",
         "type": "tabs",
         "children": [
           {
-            "id": "fae468d2add07aeb",
+            "id": "b1a72191e3bed6e1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "AIHelp/日记/2026-10-15 上线.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-10-15 上线"
             }
           }
         ]
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +184,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fae468d2add07aeb",
+  "active": "b1a72191e3bed6e1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "AIHelp/日记/2026-10-15 上线.md",
