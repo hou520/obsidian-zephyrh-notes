@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5737f038fd577a",
+        "id": "e9eb96a04bbd21ff",
         "type": "tabs",
         "children": [
           {
-            "id": "ba42662f2fee6db7",
+            "id": "fae468d2add07aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -183,10 +183,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ba42662f2fee6db7",
+  "active": "fae468d2add07aeb",
   "lastOpenFiles": [
-    "AIHelp/日记/2026-10-15 上线.md",
     "conflict-files-obsidian-git.md",
+    "AIHelp/日记/2026-10-15 上线.md",
     "思维导图/Excalidraw/Drawing 2026-02-20 19.08.02.excalidraw.md",
     "思维导图/思维导图.restored.md",
     "思维导图/思维导图.canvas",
