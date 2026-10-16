@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIHelp/日记/2026-10-15 上线.md",
+                "file": "学习笔记/Cursor/aihelp-dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-15 上线"
+              "title": "aihelp-dev"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "b1a72191e3bed6e1",
   "lastOpenFiles": [
-    "学习笔记/NetCore/项目编译报错 CreateAppHost 失败.md",
     "AIHelp/日记/2026-10-15 上线.md",
+    "学习笔记/NetCore/项目编译报错 CreateAppHost 失败.md",
     "conflict-files-obsidian-git.md",
     "思维导图/Excalidraw/Drawing 2026-02-20 19.08.02.excalidraw.md",
     "思维导图/思维导图.restored.md",
