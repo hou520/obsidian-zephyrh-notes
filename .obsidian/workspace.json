@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-11-05 上线内容"
             }
-          },
-          {
-            "id": "8918e6fed9dd59d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.15.0"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +184,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8918e6fed9dd59d7",
+  "active": "5d1da696aba26bd9",
   "lastOpenFiles": [
     "AIHelp/日记/2026-10-31 twilio购买菲律宾手机号.md",
     "AIHelp/日记/2026-11-05 上线内容.md",
