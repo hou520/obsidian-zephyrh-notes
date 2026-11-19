@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIHelp/日记/2026-11-12 上线内容.md",
+                "file": "学习笔记/Cursor/Cursor配置不使用Sandbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-12 上线内容"
+              "title": "Cursor配置不使用Sandbox"
+            }
+          },
+          {
+            "id": "9ad8f16b7f62f78e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.15.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +197,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5d1da696aba26bd9",
+  "active": "9ad8f16b7f62f78e",
   "lastOpenFiles": [
-    "AIHelp/日记/2026-11-05 上线内容.md",
     "AIHelp/日记/2026-11-12 上线内容.md",
+    "AIHelp/日记/2026-11-05 上线内容.md",
     "AIHelp/日记/2026-10-31 twilio购买菲律宾手机号.md",
     "AIHelp/日记/attachments/Pasted image 20261031112358.png",
     "AIHelp/日记/attachments/Pasted image 20261031112347.png",
